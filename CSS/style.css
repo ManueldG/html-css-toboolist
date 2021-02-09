@@ -56,6 +56,7 @@ main{
     border-radius: 5px;
 }
 
+/*icone*/
 .iconV{
     padding: 0 3px;
     border: 1px solid #6ccfb3;
@@ -68,6 +69,8 @@ main{
     border-radius: 50%;
     color: #eb300f;
 }
+
+/*Label*/
 
 .labelorange{
     background-color:#eda300;
