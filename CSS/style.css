@@ -8,7 +8,7 @@
 }
  
  body{
-     background-color: rgb(151, 147, 147);
+    background-color: grey;
  }
 
  /*header*/
@@ -26,18 +26,16 @@ header{
  /*body*/
 main{
     margin: auto;
-    border: 1px solid black;
     border-radius: 20px 20px 0 0 ;
     width: 80%;
-    background-color: rgb(255, 255, 255);
+    background-color:grey;
 }
 .barra{
     line-height: 60px;
     height: 60px;
     margin-bottom: 5px;
-    
+    }
 
-}
  .addtask{
      margin: 40px 0 0 40px;
      padding: 6px;
@@ -45,9 +43,12 @@ main{
      color: white;
      border-radius: 5px;
  }
+ 
+ .task{
+     padding: 2% 0 2% 5%;
+ }
 
  .addsection{
-    padding: 6px;
     background-color: white;
     color: lightgrey;
     border: 1px solid black;
@@ -66,6 +67,49 @@ main{
     border-radius: 50%;
     color: #eb300f;
 }
+
+.labelorange{
+    background-color:#eda300;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.labelblue{
+    background-color:#5d99f2;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.labelred{
+    background-color:#dd359f;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.labellightgreen{
+    background-color:#9fdc00;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.labelgreen{
+    background-color:#5ac7a7;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.labelviolet{
+    background-color:#ab21ed;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
 
 
 
