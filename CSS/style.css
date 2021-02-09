@@ -1,53 +1,72 @@
 /*general*/
-*{ padding: 0;
+*{ 
+    padding: 0;
     margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #f6f7f8;
+    box-sizing: border-box;
 }
  
  body{
-     vertical-align: middle;
+     background-color: rgb(151, 147, 147);
  }
-
- 
- 
- 
- 
-
-
 
  /*header*/
 header{
+    margin-bottom: 50px;
     
     
 }
 
-img{
-
-}
-
-h1{
-    
-    
-}
-span{
-    
+.logo{
+    vertical-align: middle;
+    margin: 5px;
 }
 
  /*body*/
 main{
     margin: auto;
     border: 1px solid black;
+    border-radius: 20px 20px 0 0 ;
     width: 80%;
     background-color: rgb(255, 255, 255);
 }
 .barra{
+    line-height: 60px;
+    height: 60px;
+    margin-bottom: 5px;
+    
 
 }
- .task1{
+ .addtask{
+     margin: 40px 0 0 40px;
+     padding: 6px;
      background-color: #6099fb;
-     
+     color: white;
+     border-radius: 5px;
  }
+
+ .addsection{
+    padding: 6px;
+    background-color: white;
+    color: lightgrey;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.iconV{
+    padding: 0 3px;
+    border: 1px solid #6ccfb3;
+    border-radius: 50%;
+    color: #6ccfb3;
+}
+.iconX{
+    padding: 0 3px;
+    border: 1px solid #eb300f;
+    border-radius: 50%;
+    color: #eb300f;
+}
+
 
 
  /*layout*/
@@ -56,15 +75,7 @@ main{
  /*list content*/
  /*footer*/
  
- /*selettore*/
-     /*display*/
-     /*dimensioni*/
-     /*margin - padding*/
-     /*text*/
-     /*background*/
-     /*border*/
-     /*transisioni*/
-     /*cursor*/
+ 
  
  
  
