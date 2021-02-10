@@ -44,9 +44,13 @@ main{
      border-radius: 5px;
  }
  
+ .task ul{
+     list-style: none inside;
+}
+
  .task{
-     padding: 2% 0 2% 5%;
- }
+    padding: 2% 0 2% 5%;
+}
 
  .addsection{
     padding: 6px;
