@@ -35,7 +35,7 @@
        inkscape:isstock="true">
       <path
          transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#00f000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:0.0320987"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:0.0320987"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path867" />
     </marker>
@@ -116,9 +116,9 @@
        inkscape:transform-center-y="-1.5119052"><tspan
          x="-21.921875"
          y="-9.5346978"><tspan
-           style="fill:#00ff00">✗</tspan></tspan></text>
+           style="fill:#ff0000">✗</tspan></tspan></text>
     <ellipse
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:0;fill-rule:evenodd;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1;stroke:#00f000"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill#ff0000;fill-opacity:0;fill-rule:evenodd;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1;stroke:#ff0000"
        id="path40"
        cx="103.56548"
        cy="142.49702"
